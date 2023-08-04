@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/DataScience/Projects/mlprojectwithmlflow/mlruns/0/5ad31e2a345749e997ad81ad38f3c001/artifacts
+end_time: 1691165043356
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ad31e2a345749e997ad81ad38f3c001
+run_name: valuable-pug-186
+run_uuid: 5ad31e2a345749e997ad81ad38f3c001
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691165040423
+status: 3
+tags: []
+user_id: ignatius

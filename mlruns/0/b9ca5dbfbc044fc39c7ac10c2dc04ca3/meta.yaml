@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/DataScience/Projects/mlprojectwithmlflow/mlruns/0/b9ca5dbfbc044fc39c7ac10c2dc04ca3/artifacts
+end_time: 1691164179120
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9ca5dbfbc044fc39c7ac10c2dc04ca3
+run_name: enthused-lamb-21
+run_uuid: b9ca5dbfbc044fc39c7ac10c2dc04ca3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691164174336
+status: 3
+tags: []
+user_id: ignatius
